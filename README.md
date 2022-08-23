@@ -1,2 +1,2 @@
 # Good-Advice
-Good Advice
+Be better
